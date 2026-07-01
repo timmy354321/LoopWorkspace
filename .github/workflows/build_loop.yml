@@ -218,7 +218,6 @@ jobs:
           now_line \
           watch_title \
           xdrip_cgm
-
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
           
